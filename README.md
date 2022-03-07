@@ -4,7 +4,7 @@ hdfdfdfdfdellioooo
 DFFFDFDF
 monday 26th august 2019 
 hello
-devops 9am batch
+devops 9am bGatch
 ddsdsdsd
 webhook test
 10/12/2019
@@ -29,3 +29,4 @@ webhook test
 05/07/2021 ---> Monday is today
 06/07/2021 ---> Today is Tuesday
 10/21/2021
+07/03/2022 ---> Today is monday and raining day
